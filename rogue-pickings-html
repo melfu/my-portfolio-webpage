@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Rogue Pickings</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+        <div class="full-width">
+             <div class="half-width">
+                <h1><span>Rogue</span> Pickings</h1>
+            </div>
+            <div class="half-width">	
+                <nav>
+                    <ul>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#menu">Menu</a></li>
+                        <li><a href="#locations">Locations</a></li>
+						<li><a href="#gallery">Gallery</a></li>
+                        <li><a href="#reviews">Reviews</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul> 
+                </nav>
+            </div>
+            <img src ="img/hero-image.png" id= "greenbeans" alt="Fresh Greenbeans" >
+        </div>
+        </header>
+        <main>
+        <div class="full-width">    
+        <section id="about">
+            <h1><strong>Welcome to our little corner of the internet!</strong></h1>
+            <p>Welcome to Rogue Pickings, the roaming truck bringing you the freshest ingredients and ideas in food. Our team works hard so you can be sure our ingredients are always fresh and picked carefully. Our menu changes every day and is made with you in mind. We can't wait to come to you! Check out our locations to see where you can find us.</p>
+        </section>
+        </div>
+        <div class="full-width">    
+        <div class="third-width">
+        <section id="menu">
+            <h1>Today's Specials</h1>
+            <ul><a href="Flaming Hummus &amp; Falafel Salad">Flaming Hummus &amp; Falafel Salad</a></ul>
+            <ul><a href="Sizzling Bean Burrito"> Sizzling Bean Burrito</a></ul>
+            <ul><a href="Green Cloves Tamales"> Green Cloves Tamales</a></ul>
+        </section>       
+        </div>
+        <div class="third-width">
+        <section id="reviews">
+            <h1>Our Awesome Reviews</h1>
+            <p>"I got so excited about the yumminess of the falafel salad that I am typing this review as I inhale my lunch. Yes it is that good.... Service was super friendly and quick. Can't wait see you Rogue Pickings again tomorrow!"</p>
+        </section>
+        </div>
+        <div class="third-width">
+        <section id="contact">
+            <h1>Contact Us</h1>
+            <p>1001 Potrero Avenue<br> 
+            San Fransisco, CA 94110<br>
+            (415) 206-8000</p>   
+        </section>
+        </div>    
+        </div>
+        </main>
+        <footer>
+        <div class="full-width" id="footer">
+        <p>Powered by lots of <span style="color: #70a970"><em> fresh</em></span> ingredients</p>
+        </div>
+        </footer>
+    </body>
+</html>
